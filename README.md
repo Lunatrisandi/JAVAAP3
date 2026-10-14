@@ -12,4 +12,4 @@ JAVAAP3/
                     └── CharacterType.java
                     
 Catatan: Jalankan program dan ambil screenshot konsol terminal yang menampilkan data karakter serta hasil pemanggilan method isAlive(), lalu simpan gambarnya di repository dengan nama     C:\Users\GUNA DWI SANDI\OneDrive\Documents\JAVAAP3\Screenshot 2026-10-14 192005.png                
-Dokumen Analisis Desain (Bagian D): https://1drv.ms/w/c/265fce39944988d2/IQB00KqJxW3YQJl5TaYFtqrXAaNIYQLlFyFNI2MiorJdoeY?e=yZLflg     
+Dokumen Analisis Desain (Bagian D): https://1drv.ms/w/c/265fce39944988d2/IQB00KqJxW3YQJl5TaYFtqrXAaNIYQLlFyFNI2MiorJdoeY?e=bNAlxB   
